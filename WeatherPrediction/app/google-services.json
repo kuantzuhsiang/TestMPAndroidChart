@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "675891556877",
+    "firebase_url": "https://orbitaldemo-93bbf.firebaseio.com",
+    "project_id": "orbitaldemo-93bbf",
+    "storage_bucket": "orbitaldemo-93bbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675891556877:android:062b5fc32cd24b29",
+        "android_client_info": {
+          "package_name": "eric.weatherprediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675891556877-a1on56rs5al31itk6bpfu842h3jsaers.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdcKig9v7azagDMohDSa2uxjOBL-428Vk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

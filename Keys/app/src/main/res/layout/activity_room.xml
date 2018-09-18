@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Room">
+
+    <ScrollView
+        android:layout_width="360dp"
+        android:layout_height="660dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/bRoom1"
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:text="Room 1"
+                tools:layout_editor_absoluteX="65dp"
+                tools:layout_editor_absoluteY="247dp" />
+
+            <Button
+                android:id="@+id/bRoom2"
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:text="Room 2"
+                tools:layout_editor_absoluteX="65dp"
+                tools:layout_editor_absoluteY="247dp" />
+
+            <Button
+                android:id="@+id/bRoom3"
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:text="Room 3"
+                tools:layout_editor_absoluteX="65dp"
+                tools:layout_editor_absoluteY="247dp" />
+
+            <Button
+                android:id="@+id/bRoom4"
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:text="Room 4"
+                tools:layout_editor_absoluteX="65dp"
+                tools:layout_editor_absoluteY="247dp" />
+
+            <Button
+                android:id="@+id/bRoom5"
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:text="Room 5"
+                tools:layout_editor_absoluteX="65dp"
+                tools:layout_editor_absoluteY="247dp" />
+
+            <Button
+                android:id="@+id/bRoom6"
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:text="Room 6"
+                tools:layout_editor_absoluteX="65dp"
+                tools:layout_editor_absoluteY="247dp" />
+
+            <Button
+                android:id="@+id/bRoom7"
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:text="Room 7"
+                tools:layout_editor_absoluteX="65dp"
+                tools:layout_editor_absoluteY="247dp" />
+
+            <Button
+                android:id="@+id/bRoom8"
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:text="Room 8"
+                tools:layout_editor_absoluteX="65dp"
+                tools:layout_editor_absoluteY="247dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

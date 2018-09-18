@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "362693209248",
+    "firebase_url": "https://messenger-v2-d4b17.firebaseio.com",
+    "project_id": "messenger-v2-d4b17",
+    "storage_bucket": "messenger-v2-d4b17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362693209248:android:7bad7838d7d2a108",
+        "android_client_info": {
+          "package_name": "e.eric.messengerv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362693209248-g3cvkocm31k8pq5bog9p0n7ghqg6qnra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.eric.messengerv2",
+            "certificate_hash": "6608029831aeae1fe2e9b1f52cdc02caab029632"
+          }
+        },
+        {
+          "client_id": "362693209248-o840imccerhslktl20ngdtm1l7hfa4bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWpUGD6shbaPDolzFrGwm6XLujfwklKDw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362693209248-o840imccerhslktl20ngdtm1l7hfa4bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
