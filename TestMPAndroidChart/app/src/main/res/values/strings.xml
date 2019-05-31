@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestMPAndroidChart</string>
+    <string name="no_points_selected">No Points Selected</string>
+</resources>
